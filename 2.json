@@ -26,10 +26,11 @@
       "description": "John Christopher 'Johnny' Depp II is an American actor, film producer, and musician. He has won the Golden Globe Award and Screen Actors Guild award for Best Actor.",
       "dob": "June 9, 1963",
       "country": "United States",
-      "height": "1.78 m",
+      "height": "1.781 m",
       "spouse": "Lori Anne Allison",
       "children": "Lily-Rose Melody Depp, John 'Jack' Christopher Depp III",
       "image": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg"
+      
     },
     {
       "name": "Angelina Jolie",
