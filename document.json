@@ -1,64 +1,55 @@
 {
   "actors": [
     {
-      "name": "Brad Pitt",
-      "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
-      "dob": "December 18, 1963",
-      "country": "United States",
-      "height": "1.80 m",
-      "spouse": "Jennifer Aniston",
-      "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
+      "name": "1.The Shawshank Redemption (1994)IMDb Rating 9.2",
+      "dob": "Release Date: 14 October 1994 (USA)Director: Frank Darabont Writers: Stephen King Storyline: Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.     ",
+      "image": "https://www.sunsetcast.com/poster/111161.jpg"
     },
     {
-      "name": "Tom Cruise",
-      "description": "Tom Cruise, is an American film actor and producer. He has been nominated for three Academy Awards and has won three Golden Globe Awards. He started his career at age 19 in the 1981 film Endless Love.",
-      "dob": "July 3, 1962",
-      "country": "United States",
-      "height": "1.70 m",
-      "spouse": "Katie Holmes",
-      "children": "Suri Cruise, Isabella Jane Cruise, Connor Cruise",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+      "name": "2.The Godfather (1972)IMDb Rating 9.2",
+      "dob": "Release Date: 24 March 1972 (USA) Director: Francis Ford Coppola Writers: Mario Puzo Storyline: When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen. Written.     ",
+      "image": "http://static.metacritic.com/images/products/movies/3/47c2b1f35087fc23c5ce261bbc3ad9e0.jpg"
     },
     {
-      "name": "Johnny Depp",
-      "description": "John Christopher 'Johnny' Depp II is an American actor, film producer, and musician. He has won the Golden Globe Award and Screen Actors Guild award for Best Actor.",
-      "dob": "June 9, 1963",
-      "country": "United States",
-      "height": "1.78 m",
-      "spouse": "Lori Anne Allison",
-      "children": "Lily-Rose Melody Depp, John 'Jack' Christopher Depp III",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg"
+      "name": "3.The Godfather: Part II (1974)IMDb Rating 9.0",
+      "dob": "Release Date: 20 December 1974 (USA)Director: Francis Ford Coppola Writers: Mario Puzo Storyline: The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.     ",
+      "image": "http://emanuellevy.com/wp-content/uploads/2013/12/the_godfather_part_2_poster.jpg"
     },
     {
-      "name": "Angelina Jolie",
-      "description": "Angelina Jolie is an American actress, film director, screenwriter, and author. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards.",
-      "dob": "June 4, 1975",
-      "country": "United States",
-      "height": "1.69 m",
-      "spouse": "Brad Pitt",
-      "children": "Shiloh Nouvel Jolie-Pitt, Maddox Chivan Jolie-Pitt",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/jolie.jpg"
+      "name": "4,The Dark Knight (2008)IMDb Rating 9.0",
+      "dob": "Release Date: 18 July 2008 (USA)   Director: Christopher Nolan Writers: Jonathan Nolan Storyline: Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to confront everything he believes and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes.",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
     },
     {
-      "name": "Tom Hanks",
-      "description": "Thomas Jeffrey 'Tom' Hanks is an American actor, producer, writer, and director. Hanks is best known for his roles in Big, A League of Their Own, Sleepless in Seattle, Forrest Gump, Apollo 13.",
-      "dob": "July 9, 1956",
-      "country": "United States",
-      "height": "1.83 m",
-      "spouse": "Rita Wilson",
-      "children": "Colin Hanks, Chet Hanks, Elizabeth Ann Hanks, Truman Theodore Hanks",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/tom.jpg"
+      "name": "5.Schindler's List (1993)IMDb Rating 8.9",
+      "dob": "Release Date: 4 February 1994 (USA)Director: Steven Spielberg Writers: Thomas Keneally Storyline: Oskar Schindler is a vainglorious and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
     },
     {
-      "name": "Will Smith",
-      "description": "Willard Carroll 'Will' Smith, Jr. is an American actor, producer, and rapper. He has enjoyed success in television, film, and music.",
-      "dob": "September 25, 1968",
-      "country": "United States",
-      "height": "1.88 m",
-      "spouse": "Jada Pinkett Smith",
-      "children": "Jaden Smith, Willow Smith, Trey Smith",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg"
+      "name": "6.12 Angry Men (1957)IMDb Rating 8.9",
+      "dob": "Release Date: 2 April 1957 (USA)Director: Sidney Lumet Writers: Reginald Rose Puzo Storyline: The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room.",
+      "image": "https://www.new-mastermovie.com/wp-content/uploads/2016/05/12-Angry-Men-Poster.jpg"
+    },
+    {
+      "name": "7.Pulp Fiction (1994)IMDb Rating 8.9",
+      "dob": "Release Date:   14 October 1994 (USA)Director: Quentin Tarantino Writers: Quentin Tarantino Storyline: Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents. ",
+      "image": "https://cdn.miramax.com/media/assets/Pulp-Fiction1.png"
+    },
+    {
+      "name": "8.The Lord of the Rings: The Return of the King (2003)IMDb Rating 8.9",
+      "dob": "Release Date:    17 December 2003 (USA)Director: Peter Jackson Writers: J.R.R. Tolkien Storyline: The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits Frodo and Sam reach Mordor in their quest to destroy the one ring while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.     ",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg"
+    },
+    {
+      "name": "9.The Good, the Bad and the Ugly (1966)IMDb Rating 8.8",
+      "dob": "Release Date:   29 December 1967 (USA)Director: Sergio Leone Writers: Luciano Vincenzoni Storyline: Blondie (The Good) is a professional gunslinger who is out trying to earn a few dollars. Angel Eyes (The Bad) is a hit man who always commits to a task and sees it through, as long as he is paid to do so. And Tuco (The Ugly) is a wanted outlaw trying to take care of his own hide. Tuco and Blondie share a partnership together making money off Tuco's bounty, but when Blondie unties the partnership, Tuco tries to hunt down Blondie. When Blondie and Tuco come across a horse carriage loaded with dead bodies, they soon learn from the only survivor (Bill Carson) that he and a few other men have buried a stash of gold in a cemetery. Unfortunately Carson dies and Tuco only finds out the name of the cemetery, while Blondie finds out the name on the grave. Now the two must keep each other alive in order to find the gold. Angel Eyes (who had been looking for Bill Carson) discovers that Tuco and Blondie met with Carson and knows they know the location of the gold. All he needs is for the two to ....     ",
+      "image": "https://i.jeded.com/i/the-good-the-bad-and-the-ugly-il-buono-il-brutto-il-cattivo.9123.jpg"
+    },
+    {
+      "name": "10.Fight Club (1999)IMDb Rating 8.8",
+      "dob": "Release Date: 15 October 1999 (USA)Director: David Fincher Writers: Chuck Palahniuk Storyline: A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power. When the narrator is exposed to the hidden agenda of Tyler's fight club, he must accept the awful truth that Tyler may not be who he says he is.     ",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
     }
+    
   ]
 }
